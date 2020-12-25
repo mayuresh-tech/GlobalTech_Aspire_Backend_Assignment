@@ -1,0 +1,1 @@
+localhost:9595/aspire/swagger-ui.html
