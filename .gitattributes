@@ -1,0 +1,2 @@
+.war filter=lfs diff=lfs merge=lfs -text
+Code/GlobalTech_Aspire/target/aspire.war filter=lfs diff=lfs merge=lfs -text
