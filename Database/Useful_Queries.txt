@@ -1,0 +1,28 @@
+use globaltech;
+
+drop database globaltech;
+create database globaltech;
+
+show tables;
+
+select * from question;
+
+select * from user_details;
+
+select * from company_details;
+
+select * from question_topic;	
+
+select * from question_likes;
+
+select * from tags;
+
+select * from question_tags;
+
+select * from answers;
+
+select * from question_likes;
+
+select * from answer_likes;
+
+select * from question q, answers a, question_topic qt, question_tags qtag, answer_comments ac where q.question_id = "0359c7ae-a9b1-4a52-875e-f7e47aa6a6f0" and a.answer_id = "316a8d0a-9e01-4de7-890e-1695c983ca21";
