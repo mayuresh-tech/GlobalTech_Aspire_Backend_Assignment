@@ -16,4 +16,6 @@ public class ErrorMessages {
     public static final String ERROR_OCCURRED = "Some error occurred";
 
     public static final String LIKE_ALREADY_PRESENT = "Cannot like already liked Question/Answer";
+    
+    public static final String INTERNAL_ERROR = "Interal Error. Contact Admin";
 }
